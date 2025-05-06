@@ -1,16 +1,16 @@
-baseURL = "https://ws.0000cd.com/" #你的网址,以斜杠 / 结尾
+baseURL = "https://aibaolaitech.com/" #你的网址,以斜杠 / 结尾
 languageCode = "zh-CN"
-title = "狼牌网址导航 - 狼集 Wolf Set" #网站名称
+title = "爱宝来网址导航" #网站名称
 theme = "bluf"
 
 [params]
-  pagename = "狼集 Wolf Set" #首页标题
-  description = " 狼集 Wolf Set, 源自“狼牌工作网址导航”，集设计、Markdown、软件、安全、办公必备网址于一体，All in One 最佳选择。" #SEO，你的网站描述
+  pagename = "爱宝来" #首页标题
+  description = " 爱宝来, 源自“爱宝来网址导航”，集设计、Markdown、软件、安全、办公必备网址于一体，All in One 最佳选择。" #SEO，你的网站描述
   keywords = [
-  "狼集",
-  "Wolf Set",
-  "狼牌",
-  "狼牌工作网址导航",
+  "爱宝来",
+  "aibaolai",
+  "tech",
+  "爱宝来网址导航",
   "网址大全",
   "网址之家",
   "网址导航",
@@ -18,10 +18,11 @@ theme = "bluf"
   "Markdown资源",
   "办公软件",
   "安全工具",
+  "科技",
   "All in One"
 ] #SEO，网站关键词
-  author = "0000CD.COM & 逊狼" #SEO，网站作者
-  alias ="狼牌网址导航" #SEO，可删除
+  author = "aibaolaitech.COM & 李李" #SEO，网站作者
+  alias ="爱宝来网址导航" #SEO，可删除
   license="CC BY-NC 4.0" #网站授权信息，https://chooser-beta.creativecommons.org/
 
   enableUmami = true #umami 统计相关，没有请 false，https://umami.is/
